@@ -395,5 +395,8 @@ char lower = upper | 0x20;  // Set bit 5
 
 ---
 
-**Course Navigation:**  
-← Previous: [Chapter 10 - BCD](../ch10_binary_coded_decimals/) | Next: [Chapter 12 - Parity Bits](../ch12_parity_bits/) →
+## Authorship
+Authored by Maxwell Hauser on November 19, 2025
+
+## License
+MIT License
