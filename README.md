@@ -394,9 +394,4 @@ char lower = upper | 0x20;  // Set bit 5
 - Learn about URL encoding (percent-encoding)
 
 ---
-
-## Authorship
-Authored by Maxwell Hauser on November 19, 2025
-
-## License
-MIT License
+<!-- License moved to dedicated LICENSE file -->
